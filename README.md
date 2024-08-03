@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eeshhwaq
-- 👀 I’m interested in graphics and editing
-- 🌱 I’m currently learning c++, web development, and graphics.
+- 👀 I’m interested in everything 
+- 🌱 I’m currently learning c++, python, web development, and back/front end.
 - 📫 How to reach me email: eeshawaq2003@gmail.com
 
 <!---
